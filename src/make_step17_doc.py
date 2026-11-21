@@ -289,7 +289,7 @@ def build_project_document():
         ("Programme / Batch", "ABES_OND26_MCA 2nd Year_Data Analytics_Batch 01"),
         ("Learner(s) & Roll No(s)", "Harshit (University Roll No: 2500320140058)"),
         ("Mentor", "Dinesh Sereno (Industry Data Engineering Lead)"),
-        ("GitHub repository", "https://github.com/harshit-abes/2500320140058-p054-daily-sales"),
+        ("GitHub repository", "https://github.com/hcosmos/2500320140058-p054-daily-sales"),
         ("Live app (Streamlit)", "https://2500320140058-daily-sales.streamlit.app"),
         ("Version & date", "v1.0 - 21/11/2026")
     ]
