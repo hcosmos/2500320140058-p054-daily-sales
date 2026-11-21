@@ -290,7 +290,7 @@ def build_project_document():
         ("Learner(s) & Roll No(s)", "Harshit (University Roll No: 2500320140058)"),
         ("Mentor", "Dinesh Sereno (Industry Data Engineering Lead)"),
         ("GitHub repository", "https://github.com/hcosmos/2500320140058-p054-daily-sales"),
-        ("Live app (Streamlit)", "https://2500320140058-daily-sales.streamlit.app"),
+        ("Live app (Streamlit)", "https://2500320140058-p054-daily-sales-luq4tih6ynstt4zqslkrfc.streamlit.app/"),
         ("Version & date", "v1.0 - 21/11/2026")
     ]
     t_cover = doc.add_table(rows=len(cover_rows), cols=2)
@@ -692,7 +692,7 @@ def build_project_document():
     stage_rows = [
         ("1. Local", "python src/generate_data.py && pytest -v && streamlit run app.py", "All 21 pytest tests pass; local browser opens app.py on port 8501."),
         ("2. GitHub", "git add . && git commit -m 'Release v1.0' && git push -u origin main", "Repository main branch updated; data/app.db and requirements.txt verified on remote."),
-        ("3. Streamlit Cloud", "share.streamlit.io -> New app -> select repo -> branch main -> Deploy", "Container builds dependencies; live URL https://2500320140058-daily-sales.streamlit.app active.")
+        ("3. Streamlit Cloud", "share.streamlit.io -> New app -> select repo -> branch main -> Deploy", "Container builds dependencies; live URL https://2500320140058-p054-daily-sales-luq4tih6ynstt4zqslkrfc.streamlit.app/ active.")
     ]
     t_stage = doc.add_table(rows=len(stage_rows)+1, cols=3)
     set_table_borders(t_stage)

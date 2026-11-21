@@ -75,13 +75,13 @@ else:
         st.write(f"• **Budgeted Quota:** ₹{tgt_rev:,.2f} ({decomp['target_orders']:,} orders @ ₹{decomp['target_atv']:,.2f} target basket)")
         st.write(f"• **Realized Sales:** ₹{act_rev:,.2f} ({decomp['actual_orders']:,} orders @ ₹{decomp['actual_atv']:,.2f} realized basket)")
         st.write(f"• **Volume Driver:** {'+' if decomp['volume_effect']>=0 else ''}₹{decomp['volume_effect']:,.2f}")
-        st.caption(r"$\Delta \text{Orders} \times \text{Target ATV} = ({:+,}) \times ₹{:,.2f}$".format(
-            decomp['actual_orders'] - decomp['target_orders'], decomp['target_atv']
-        ))
+        delta_orders = decomp['actual_orders'] - decomp['target_orders']
+        target_atv = decomp['target_atv']
+        st.caption(f"$\\Delta \\text{{Orders}} \\times \\text{{Target ATV}} = ({delta_orders:+,}) \\times ₹{target_atv:,.2f}$")
         st.write(f"• **Price/ATV Driver:** {'+' if decomp['price_effect']>=0 else ''}₹{decomp['price_effect']:,.2f}")
-        st.caption(r"$\Delta \text{ATV} \times \text{Actual Orders} = ({:+,.2f}) \times {:,}$".format(
-            decomp['actual_atv'] - decomp['target_atv'], decomp['actual_orders']
-        ))
+        delta_atv = decomp['actual_atv'] - decomp['target_atv']
+        actual_orders = decomp['actual_orders']
+        st.caption(f"$\\Delta \\text{{ATV}} \\times \\text{{Actual Orders}} = ({delta_atv:+,.2f}) \\times {actual_orders:,}$")
         
         if decomp["volume_effect"] < 0 and abs(decomp["volume_effect"]) > abs(decomp["price_effect"]):
             render_insight_box(

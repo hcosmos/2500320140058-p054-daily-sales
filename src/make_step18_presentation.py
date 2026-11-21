@@ -39,7 +39,7 @@ ROLL_NO = "2500320140058"
 MENTOR = "Dinesh Sereno"
 BATCH_ID = "ABES_OND26_MCA 2nd Year_Data Analytics_Batch 01"
 DATE_STR = "21 November 2026"
-APP_URL = "https://2500320140058-daily-sales.streamlit.app"
+APP_URL = "https://2500320140058-p054-daily-sales-luq4tih6ynstt4zqslkrfc.streamlit.app/"
 GITHUB_URL = "https://github.com/hcosmos/2500320140058-p054-daily-sales"
 
 # ---------------------------------------------------------

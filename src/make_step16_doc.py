@@ -203,7 +203,7 @@ git push -u origin main"""
         "   • Repository: <your-username>/2500320140058-p054-daily-sales\n"
         "   • Branch: main\n"
         "   • Main file path: app.py\n"
-        "   • App URL (Custom subdomain): 2500320140058-daily-sales.streamlit.app\n"
+        "   • App URL (Cloud Subdomain): https://2500320140058-p054-daily-sales-luq4tih6ynstt4zqslkrfc.streamlit.app/\n"
         "4. Click 'Deploy!' and monitor the build console output for 2-3 minutes as pip dependencies install.\n"
         "5. Once deployment completes, balloons appear and the live application is accessible globally."
     )

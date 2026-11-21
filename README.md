@@ -20,6 +20,8 @@ An enterprise-grade retail sales operations analytics web application engineered
 * **Academic Program:** Master of Computer Applications (MCA) — 2nd Year (Data Analytics)
 * **Institution:** ABES Engineering College, Ghaziabad
 * **Project Mentor:** Dinesh Sereno (Industry Data Engineering Lead)
+* **Live Web App (Streamlit Community Cloud):** [https://2500320140058-p054-daily-sales-luq4tih6ynstt4zqslkrfc.streamlit.app/](https://2500320140058-p054-daily-sales-luq4tih6ynstt4zqslkrfc.streamlit.app/)
+* **GitHub Repository:** [https://github.com/hcosmos/2500320140058-p054-daily-sales](https://github.com/hcosmos/2500320140058-p054-daily-sales)
 * **Release Version:** 1.0 (Production Release) | **Baseline:** November 2026
 
 ---

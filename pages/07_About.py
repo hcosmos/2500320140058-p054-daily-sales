@@ -40,6 +40,8 @@ with col_cred2:
     * **Project ID:** P054
     * **Project Title:** Daily Sales Actual vs Target Analysis
     * **Project Mentor:** Dinesh Sereno (Industry Data Engineering Lead)
+    * **Live App URL:** [Open Streamlit Cloud App](https://2500320140058-p054-daily-sales-luq4tih6ynstt4zqslkrfc.streamlit.app/)
+    * **GitHub Repository:** [hcosmos/2500320140058-p054-daily-sales](https://github.com/hcosmos/2500320140058-p054-daily-sales)
     * **Domain:** Enterprise Retail Operations & Sales Analytics
     * **Release Version:** 1.0 (Production MVP)
     * **Baseline Trading Period:** November 2026 (20 Consecutive Days)

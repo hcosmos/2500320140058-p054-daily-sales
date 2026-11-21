@@ -184,16 +184,28 @@ else:
         )
         store_summary = store_summary.sort_values(by="achievement_pct", ascending=True)
         
-        st.dataframe(
-            store_summary.style.format({
-                "actual_sales": "₹{:,.2f}",
-                "target_sales": "₹{:,.2f}",
-                "dollar_variance": "₹{:,.2f}",
-                "achievement_pct": "{:.1f}%"
-            }).background_gradient(subset=["achievement_pct"], cmap="RdYlGn", vmin=75, vmax=115),
-            use_container_width=True,
-            height=320
-        )
+        try:
+            st.dataframe(
+                store_summary.style.format({
+                    "actual_sales": "₹{:,.2f}",
+                    "target_sales": "₹{:,.2f}",
+                    "dollar_variance": "₹{:,.2f}",
+                    "achievement_pct": "{:.1f}%"
+                }).background_gradient(subset=["achievement_pct"], cmap="RdYlGn", vmin=75, vmax=115),
+                use_container_width=True,
+                height=320
+            )
+        except Exception:
+            st.dataframe(
+                store_summary.style.format({
+                    "actual_sales": "₹{:,.2f}",
+                    "target_sales": "₹{:,.2f}",
+                    "dollar_variance": "₹{:,.2f}",
+                    "achievement_pct": "{:.1f}%"
+                }),
+                use_container_width=True,
+                height=320
+            )
 
     with col2:
         st.markdown("### 🎯 **Average Transaction Value (ATV) Depth (OQ-08)**")
