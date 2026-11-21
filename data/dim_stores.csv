@@ -1,0 +1,16 @@
+store_id,store_name,region,store_format,square_footage,benchmark_daily_target,benchmark_target_atv,manager_name,opened_date,is_active
+STR-001,Connaught Heritage Mall,North,Flagship,11500,180000.0,3200.0,Rajesh Malhotra,2021-04-15,1
+STR-002,Cyber City Retail Walk,North,Mall,8500,140000.0,2900.0,Pooja Singhania,2022-08-10,1
+STR-003,Sector 17 Central Plaza,North,HighStreet,6200,95000.0,2400.0,Harpreet Singh,2020-11-20,1
+STR-004,Hazratganj Royal Arcade,North,HighStreet,5400,80000.0,2100.0,Alok Srivastava,2023-02-05,1
+STR-005,Bandra Promenade Galleria,West,Flagship,12000,210000.0,3500.0,Vikramaditya Shah,2019-10-12,1
+STR-006,Koregaon Park Central,West,Mall,7800,130000.0,2800.0,Tanvi Deshmukh,2021-12-01,1
+STR-007,SG Highway MegaStore,West,Mall,9200,150000.0,2700.0,Jigar Mehta,2022-05-18,1
+STR-008,MI Road Heritage Bazaar,West,Outlet,4500,65000.0,1800.0,Kavita Rathore,2023-07-22,1
+STR-009,Indiranagar 100ft Arcade,South,Flagship,10800,195000.0,3400.0,Karthik Subramanian,2020-03-10,1
+STR-010,Jubilee Hills Pavilion,South,Mall,8900,160000.0,3100.0,Suresh Reddy,2021-09-14,1
+STR-011,Anna Nagar Prime Market,South,Mall,7200,120000.0,2600.0,Deepa Sundaram,2022-01-30,1
+STR-012,MG Road Coastal Hub,South,HighStreet,5100,75000.0,2000.0,Mathew Varghese,2023-04-11,1
+STR-013,Park Street Grand Mall,East,Flagship,9800,155000.0,2900.0,Debashis Banerjee,2020-06-25,1
+STR-014,Saheed Nagar Central,East,Outlet,4100,60000.0,1700.0,Ananya Mohanty,2023-09-08,1
+STR-015,Fraser Road Bazaar,Central,Outlet,4300,62000.0,1650.0,Manoj Pandey,2023-11-01,1

@@ -1,0 +1,6 @@
+category_id,category_name,department_head,target_gross_margin_pct,standard_vat_pct
+CAT-01,Electronics,Rajeev Chopra,0.22,0.18
+CAT-02,Apparel,Sunita Narang,0.48,0.12
+CAT-03,Home & Living,Arvind Swaminathan,0.4,0.18
+CAT-04,Grocery,Meera Nambisan,0.18,0.05
+CAT-05,Footwear,Deepak Chawla,0.44,0.12

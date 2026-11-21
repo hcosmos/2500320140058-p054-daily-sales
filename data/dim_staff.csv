@@ -1,0 +1,76 @@
+staff_id,staff_name,store_id,department,role_title,base_daily_quota,hire_date,status
+STF-101,Rohit Chopra,STR-001,Electronics,Floor Lead,42000.0,2023-04-08,Active
+STF-102,Arjun Subramanian,STR-001,Electronics,Senior Associate,32000.0,2021-10-14,Active
+STF-103,Aditi Agarwal,STR-001,Electronics,Senior Associate,30000.0,2022-04-17,Active
+STF-104,Rohan Agarwal,STR-001,Footwear,Sales Associate,22000.0,2022-12-21,Active
+STF-105,Sanjay Rao,STR-001,Grocery,Sales Associate,20000.0,2022-08-19,Active
+STF-106,Isha Yadav,STR-002,Electronics,Floor Lead,42000.0,2022-12-14,Active
+STF-107,Kavita Jain,STR-002,Apparel,Senior Associate,32000.0,2022-06-04,Active
+STF-108,Amit Mehta,STR-002,Electronics,Senior Associate,30000.0,2023-06-20,Active
+STF-109,Isha Yadav,STR-002,Electronics,Sales Associate,22000.0,2024-09-04,Active
+STF-110,Zara Mehta,STR-002,Electronics,Sales Associate,20000.0,2023-11-20,Active
+STF-111,Vikram Malhotra,STR-003,Footwear,Floor Lead,42000.0,2022-12-03,Active
+STF-112,Aditi Singh,STR-003,Apparel,Senior Associate,32000.0,2023-02-28,Active
+STF-113,Gaurav Chopra,STR-003,Grocery,Senior Associate,30000.0,2023-08-21,Active
+STF-114,Varun Malhotra,STR-003,Apparel,Sales Associate,22000.0,2023-06-07,Active
+STF-115,Sakshi Jain,STR-003,Electronics,Sales Associate,20000.0,2022-09-24,Active
+STF-116,Gaurav Deshmukh,STR-004,Grocery,Floor Lead,42000.0,2024-05-21,Active
+STF-117,Sanjay Rao,STR-004,Apparel,Senior Associate,32000.0,2023-01-08,Active
+STF-118,Varun Bhatia,STR-004,Home & Living,Senior Associate,30000.0,2024-05-03,Active
+STF-119,Divya Reddy,STR-004,Home & Living,Sales Associate,22000.0,2022-11-16,Active
+STF-120,Neha Sharma,STR-004,Grocery,Sales Associate,20000.0,2022-05-05,Active
+STF-121,Gaurav Subramanian,STR-005,Footwear,Floor Lead,42000.0,2023-12-19,Active
+STF-122,Nikhil Reddy,STR-005,Grocery,Senior Associate,32000.0,2023-04-05,Active
+STF-123,Priya Patel,STR-005,Electronics,Senior Associate,30000.0,2021-02-05,Active
+STF-124,Rohit Deshmukh,STR-005,Grocery,Sales Associate,22000.0,2021-07-13,Active
+STF-125,Rohan Nair,STR-005,Footwear,Sales Associate,20000.0,2023-09-28,Active
+STF-126,Aarav Singh,STR-006,Electronics,Floor Lead,42000.0,2023-11-11,Active
+STF-127,Ananya Kapoor,STR-006,Grocery,Senior Associate,32000.0,2022-08-01,Active
+STF-128,Shreya Subramanian,STR-006,Home & Living,Senior Associate,30000.0,2022-09-04,Active
+STF-129,Vikas Sharma,STR-006,Home & Living,Sales Associate,22000.0,2022-03-12,Active
+STF-130,Siddharth Deshmukh,STR-006,Footwear,Sales Associate,20000.0,2021-10-11,Active
+STF-131,Pranav Agarwal,STR-007,Electronics,Floor Lead,42000.0,2023-05-08,Active
+STF-132,Aditi Iyer,STR-007,Footwear,Senior Associate,32000.0,2021-02-24,Active
+STF-133,Pranav Chatterjee,STR-007,Footwear,Senior Associate,30000.0,2022-03-22,Active
+STF-134,Pranav Rao,STR-007,Apparel,Sales Associate,22000.0,2023-09-28,Active
+STF-135,Rohan Mishra,STR-007,Apparel,Sales Associate,20000.0,2022-12-10,Active
+STF-136,Neha Singh,STR-008,Home & Living,Floor Lead,42000.0,2024-09-15,Active
+STF-137,Ananya Iyer,STR-008,Apparel,Senior Associate,32000.0,2021-06-01,Active
+STF-138,Rhea Rao,STR-008,Apparel,Senior Associate,30000.0,2022-01-03,Active
+STF-139,Sanjay Sharma,STR-008,Electronics,Sales Associate,22000.0,2022-02-02,Active
+STF-140,Vikas Kumar,STR-008,Electronics,Sales Associate,20000.0,2022-05-22,Active
+STF-141,Pranav Gupta,STR-009,Footwear,Floor Lead,42000.0,2022-12-19,Active
+STF-142,Rhea Patel,STR-009,Apparel,Senior Associate,32000.0,2024-07-07,Active
+STF-143,Ananya Chopra,STR-009,Grocery,Senior Associate,30000.0,2023-07-14,Active
+STF-144,Pooja Subramanian,STR-009,Electronics,Sales Associate,22000.0,2021-01-13,Active
+STF-145,Shreya Kumar,STR-009,Electronics,Sales Associate,20000.0,2022-04-07,Active
+STF-146,Rahul Nair,STR-010,Apparel,Floor Lead,42000.0,2024-03-09,Active
+STF-147,Pooja Iyer,STR-010,Electronics,Senior Associate,32000.0,2024-09-04,Active
+STF-148,Aditi Sharma,STR-010,Footwear,Senior Associate,30000.0,2021-02-25,Active
+STF-149,Vikas Iyer,STR-010,Apparel,Sales Associate,22000.0,2024-08-16,Active
+STF-150,Divya Mehta,STR-010,Electronics,Sales Associate,20000.0,2022-07-01,Active
+STF-151,Neha Jain,STR-011,Grocery,Floor Lead,42000.0,2023-07-23,Active
+STF-152,Shreya Yadav,STR-011,Footwear,Senior Associate,32000.0,2024-03-07,Active
+STF-153,Karan Gupta,STR-011,Electronics,Senior Associate,30000.0,2021-12-11,Active
+STF-154,Aditi Bhatia,STR-011,Footwear,Sales Associate,22000.0,2024-09-28,Active
+STF-155,Priya Deshmukh,STR-011,Electronics,Sales Associate,20000.0,2021-03-03,Active
+STF-156,Rohan Chatterjee,STR-012,Apparel,Floor Lead,42000.0,2024-02-19,Active
+STF-157,Gaurav Reddy,STR-012,Footwear,Senior Associate,32000.0,2021-10-03,Active
+STF-158,Nikhil Singh,STR-012,Footwear,Senior Associate,30000.0,2023-05-07,Active
+STF-159,Sakshi Srivastava,STR-012,Home & Living,Sales Associate,22000.0,2022-05-13,Active
+STF-160,Arjun Singh,STR-012,Home & Living,Sales Associate,20000.0,2024-06-25,Active
+STF-161,Zara Chatterjee,STR-013,Electronics,Floor Lead,42000.0,2024-10-19,Active
+STF-162,Ananya Chatterjee,STR-013,Footwear,Senior Associate,32000.0,2022-09-09,Active
+STF-163,Arjun Malhotra,STR-013,Electronics,Senior Associate,30000.0,2022-06-10,Active
+STF-164,Deepak Nair,STR-013,Footwear,Sales Associate,22000.0,2023-10-26,Active
+STF-165,Rohit Prasad,STR-013,Electronics,Sales Associate,20000.0,2023-11-04,Active
+STF-166,Vikram Das,STR-014,Home & Living,Floor Lead,42000.0,2021-02-24,Active
+STF-167,Rahul Das,STR-014,Home & Living,Senior Associate,32000.0,2023-10-07,Active
+STF-168,Sanjay Kumar,STR-014,Apparel,Senior Associate,30000.0,2023-09-16,Active
+STF-169,Isha Bhatia,STR-014,Electronics,Sales Associate,22000.0,2024-05-02,Active
+STF-170,Aarav Kumar,STR-014,Apparel,Sales Associate,20000.0,2023-03-24,Active
+STF-171,Pooja Rao,STR-015,Grocery,Floor Lead,42000.0,2021-02-03,Active
+STF-172,Vikram Srivastava,STR-015,Apparel,Senior Associate,32000.0,2021-06-19,Active
+STF-173,Rahul Das,STR-015,Grocery,Senior Associate,30000.0,2022-01-10,Active
+STF-174,Manish Yadav,STR-015,Electronics,Sales Associate,22000.0,2023-04-22,Active
+STF-175,Gaurav Singh,STR-015,Electronics,Sales Associate,20000.0,2023-09-28,Active
