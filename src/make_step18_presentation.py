@@ -37,6 +37,7 @@ PROJECT_TITLE = "Daily Sales Actual vs Target Analysis"
 LEARNER = "Harshit"
 ROLL_NO = "2500320140058"
 MENTOR = "Dinesh Sereno"
+BATCH_ID = "ABES_OND26_MCA 2nd Year_Data Analytics_Batch 01"
 DATE_STR = "21 November 2026"
 APP_URL = "https://2500320140058-daily-sales.streamlit.app"
 GITHUB_URL = "https://github.com/harshit-abes/2500320140058-p054-daily-sales"
@@ -373,9 +374,9 @@ def build_presentation(output_path="docs/P054_Presentation.pptx"):
     # =========================================================
     title_1 = f"{PROJECT_ID} - {PROJECT_TITLE}"
     lines_1 = [
-        f"{LEARNER} | Roll No {ROLL_NO}",
-        "MCA 2nd Year Data Analyst | ABES_OND26_MCA Batch 01",
-        f"Mentor: {MENTOR} (Industry Data Engineering Lead)",
+        f"{LEARNER} | University Roll No: {ROLL_NO}",
+        f"Batch ID: {BATCH_ID}",
+        f"Project Mentor: {MENTOR} (Industry Data Engineering Lead)",
         (f"{DATE_STR}", True)  # date in pink
     ]
     notes_1 = (

@@ -119,7 +119,7 @@ def create_deployment_guide_doc():
     meta_table.alignment = WD_TABLE_ALIGNMENT.CENTER
     set_table_borders(meta_table)
     meta_data = [
-        ("Candidate Name / Roll No:", "Harshit | Roll No: 2500320140058 (MCA 2nd Year DA, ABES)"),
+        ("Candidate Name / Roll No:", "Harshit | University Roll No: 2500320140058 | Batch ID: ABES_OND26_MCA 2nd Year_Data Analytics_Batch 01"),
         ("Project Mentor:", "Dinesh Sereno | Industry Data Engineering Lead"),
         ("Deployment Target:", "Streamlit Community Cloud (Linux container, Python 3.12+, GitHub integration)"),
         ("Release Status & Date:", "Version 1.0 (Production Live) | November 2026")

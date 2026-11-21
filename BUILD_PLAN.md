@@ -1,8 +1,10 @@
 # PROJECT P054: DAILY SALES ACTUAL VS TARGET ANALYSIS
 ## MASTER BUILD PLAN & SPRINT IMPLEMENTATION SPECIFICATION (BUILD_PLAN.md)
 
-**Candidate:** Harshit | **Roll No:** 2500320140058 | **Program:** MCA 2nd Year (Data Analytics), ABES Institute of Technology  
-**Industry Mentor:** Dinesh Sereno | Industry Data Engineering Lead  
+**Candidate:** Harshit | **University Roll No:** 2500320140058 | **Project ID:** P054  
+**Batch ID:** ABES_OND26_MCA 2nd Year_Data Analytics_Batch 01  
+**Project Mentor:** Dinesh Sereno | Industry Data Engineering Lead  
+**Institution:** ABES Engineering College, Ghaziabad  
 **Baseline Release:** Version 1.0 (MVP) | **Date:** November 2026  
 **Target Environment:** Python 3.12+, Streamlit Multi-Page, SQLite, Tailwind CSS CDN, Plotly Graph Objects, pytest  
 

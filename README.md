@@ -12,11 +12,14 @@ An enterprise-grade retail sales operations analytics web application engineered
 ---
 
 ## 📌 Project Credentials & Academic Metadata
+* **Project ID:** P054
+* **Project Title:** Daily Sales Actual vs Target Analysis
 * **Candidate / Lead Analyst:** Harshit
-* **University Roll Number:** 2500320140058
+* **University Roll No:** 2500320140058
+* **Batch ID:** ABES_OND26_MCA 2nd Year_Data Analytics_Batch 01
 * **Academic Program:** Master of Computer Applications (MCA) — 2nd Year (Data Analytics)
-* **Institution:** ABES Institute of Technology, Ghaziabad
-* **Industry Mentor:** Dinesh Sereno (Industry Data Engineering Lead)
+* **Institution:** ABES Engineering College, Ghaziabad
+* **Project Mentor:** Dinesh Sereno (Industry Data Engineering Lead)
 * **Release Version:** 1.0 (Production Release) | **Baseline:** November 2026
 
 ---

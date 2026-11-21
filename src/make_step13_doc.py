@@ -102,7 +102,7 @@ def create_test_cases_doc():
     meta_table.alignment = WD_TABLE_ALIGNMENT.CENTER
     set_table_borders(meta_table)
     meta_data = [
-        ("Candidate Name / Roll No:", "Harshit | Roll No: 2500320140058 (MCA 2nd Year DA, ABES)"),
+        ("Candidate Name / Roll No:", "Harshit | University Roll No: 2500320140058 | Batch ID: ABES_OND26_MCA 2nd Year_Data Analytics_Batch 01"),
         ("Project Mentor:", "Dinesh Sereno | Industry Data Engineering Lead"),
         ("Test Harness & Framework:", "pytest 9.2.0, pandas, sqlite3, Streamlit Component Test Suite"),
         ("Specification Scope:", "16 Functional Test Cases (TC-F-01..16), 21 Technical Unit Tests (TC-T-01..21), 100% BR Coverage")

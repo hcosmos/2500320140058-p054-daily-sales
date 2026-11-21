@@ -1,7 +1,7 @@
 """
 PROJECT P054: DAILY SALES ACTUAL VS TARGET ANALYSIS
 Comprehensive ABES Project Document Generator (src/make_step17_doc.py)
-Author: Harshit (Roll No: 2500320140058) | Mentor: Dinesh Sereno
+Author: Harshit (University Roll No: 2500320140058) | Project ID: P054 | Batch ID: ABES_OND26_MCA 2nd Year_Data Analytics_Batch 01 | Project Mentor: Dinesh Sereno
 """
 
 import os
@@ -286,8 +286,8 @@ def build_project_document():
     cover_rows = [
         ("Project ID & Title", "P054 - Daily Sales Actual vs Target Analysis"),
         ("Domain", "Retail Sales Operations & Performance Analytics"),
-        ("Programme / Batch", "MCA 2nd Year Data Analyst - ABES_OND26_MCA Batch 01"),
-        ("Learner(s) & Roll No(s)", "Harshit (Roll No: 2500320140058)"),
+        ("Programme / Batch", "ABES_OND26_MCA 2nd Year_Data Analytics_Batch 01"),
+        ("Learner(s) & Roll No(s)", "Harshit (University Roll No: 2500320140058)"),
         ("Mentor", "Dinesh Sereno (Industry Data Engineering Lead)"),
         ("GitHub repository", "https://github.com/harshit-abes/2500320140058-p054-daily-sales"),
         ("Live app (Streamlit)", "https://2500320140058-daily-sales.streamlit.app"),
@@ -895,9 +895,9 @@ CREATE TABLE fact_daily_sales (
     add_label_p(doc, "MY PREFERENCES", color=RGBColor(0xA5, 0x1C, 0x30))
     prefs_text = """PROJECT ID & TITLE: P054 - Daily Sales Actual vs Target Analysis
 DOMAIN: Retail Sales Operations & Performance Analytics
-LEARNER(S) & ROLL NO(S): Harshit (Roll No: 2500320140058)
+LEARNER(S) & ROLL NO(S): Harshit (University Roll No: 2500320140058)
 MENTOR: Dinesh Sereno (Industry Data Engineering Lead)
-BATCH: MCA 2nd Year Data Analyst - ABES_OND26_MCA Batch 01
+BATCH: ABES_OND26_MCA 2nd Year_Data Analytics_Batch 01
 INTENDED USERS: Commercial Sales Director, Store Managers, Category Heads, Supervisors, Data Analysts
 PROBLEM IN MY WORDS: Multi-unit retail operations suffer 48-72h latency discovering sales quota deficits. We need automated daily variance tracking, store rankings, footfall vs basket decomposition, and month-end velocity forecasting.
 DATASET: Fictional Indian retail operations: 15 stores, 5 categories, 75 staff, 300 target rows, 300 sales rows (seed 42).

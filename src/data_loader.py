@@ -1,7 +1,7 @@
 """
 PROJECT P054: DAILY SALES ACTUAL VS TARGET ANALYSIS
 Data Ingestion, Cleaning & In-Memory Caching Module (src/data_loader.py)
-Author: Harshit (Roll No: 2500320140058) | Mentor: Dinesh Sereno
+Author: Harshit (University Roll No: 2500320140058) | Project ID: P054 | Batch ID: ABES_OND26_MCA 2nd Year_Data Analytics_Batch 01 | Project Mentor: Dinesh Sereno
 """
 
 import os

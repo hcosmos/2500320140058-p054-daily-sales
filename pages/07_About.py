@@ -1,7 +1,7 @@
 """
 PROJECT P054: DAILY SALES ACTUAL VS TARGET ANALYSIS
 Screen UI-07: System Architecture, Academic Credentials & About
-Author: Harshit (Roll No: 2500320140058) | Mentor: Dinesh Sereno
+Author: Harshit (University Roll No: 2500320140058) | Project ID: P054 | Batch ID: ABES_OND26_MCA 2nd Year_Data Analytics_Batch 01 | Project Mentor: Dinesh Sereno
 """
 
 import streamlit as st
@@ -27,17 +27,19 @@ with col_cred1:
     st.info("""
     **Candidate Information:**
     * **Learner / Data Analyst:** Harshit
-    * **University Roll Number:** 2500320140058
+    * **University Roll No:** 2500320140058
+    * **Batch ID:** ABES_OND26_MCA 2nd Year_Data Analytics_Batch 01
     * **Academic Program:** Master of Computer Applications (MCA) — 2nd Year
     * **Specialization:** Data Analytics (DA)
-    * **Institution:** ABES Institute of Technology, Ghaziabad
+    * **Institution:** ABES Engineering College, Ghaziabad
     """)
 
 with col_cred2:
     st.success("""
     **Project & Mentorship Governance:**
-    * **Project ID & Title:** P054 — Daily Sales Actual vs Target Analysis
-    * **Industry Mentor:** Dinesh Sereno (Industry Lead)
+    * **Project ID:** P054
+    * **Project Title:** Daily Sales Actual vs Target Analysis
+    * **Project Mentor:** Dinesh Sereno (Industry Data Engineering Lead)
     * **Domain:** Enterprise Retail Operations & Sales Analytics
     * **Release Version:** 1.0 (Production MVP)
     * **Baseline Trading Period:** November 2026 (20 Consecutive Days)

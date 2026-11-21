@@ -119,7 +119,7 @@ def create_build_plan_doc():
     meta_table.alignment = WD_TABLE_ALIGNMENT.CENTER
     set_table_borders(meta_table)
     meta_data = [
-        ("Candidate Name / Roll No:", "Harshit | Roll No: 2500320140058 (MCA 2nd Year DA, ABES)"),
+        ("Candidate Name / Roll No:", "Harshit | University Roll No: 2500320140058 | Batch ID: ABES_OND26_MCA 2nd Year_Data Analytics_Batch 01"),
         ("Project Mentor:", "Dinesh Sereno | Industry Data Engineering Lead"),
         ("Execution Blueprint:", "BUILD_PLAN.md & 14_BUILD_PLAN.docx | 12 Discrete Engineering Tasks (BUILD-01..12)"),
         ("Baseline Release & Date:", "Version 1.0 (Build Ready) | November 2026")

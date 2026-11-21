@@ -103,7 +103,7 @@ def create_user_stories_doc():
     meta_table.alignment = WD_TABLE_ALIGNMENT.CENTER
     set_table_borders(meta_table)
     meta_data = [
-        ("Candidate Name / Roll No:", "Harshit | Roll No: 2500320140058 (MCA 2nd Year Data Analytics, ABES)"),
+        ("Candidate Name / Roll No:", "Harshit | University Roll No: 2500320140058 | Batch ID: ABES_OND26_MCA 2nd Year_Data Analytics_Batch 01"),
         ("Project Mentor:", "Dinesh Sereno | Industry Data Engineering Lead"),
         ("Document Release & Date:", "Version 1.0 | Sprint Ready Baseline | November 2026"),
         ("Artifact Scope:", "15 User Stories (55 Story Points), 5 Epics, Gherkin Criteria, Sprint Backlog")

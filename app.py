@@ -1,7 +1,7 @@
 """
 PROJECT P054: DAILY SALES ACTUAL VS TARGET ANALYSIS
 Main Streamlit Application Entry Point (app.py)
-Author: Harshit (Roll No: 2500320140058) | Mentor: Dinesh Sereno
+Author: Harshit (University Roll No: 2500320140058) | Project ID: P054 | Batch ID: ABES_OND26_MCA 2nd Year_Data Analytics_Batch 01 | Project Mentor: Dinesh Sereno
 """
 
 import streamlit as st
@@ -40,7 +40,7 @@ dim_stores, dim_categories, dim_staff = load_dimension_tables()
 # ==========================================
 with st.sidebar:
     st.markdown("### 🏬 **Retail Sales Operations**")
-    st.caption("Project P054 | Harshit (ABES) | Mentor: Dinesh Sereno")
+    st.caption("P054 | Harshit (2500320140058) | Mentor: Dinesh Sereno | Batch: ABES_OND26_MCA 2nd Year_Data Analytics_Batch 01")
     st.divider()
     
     st.markdown("#### 🔍 **Global Performance Filters**")
