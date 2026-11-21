@@ -9,6 +9,8 @@ import sqlite3
 import pandas as pd
 import numpy as np
 
+from pathlib import Path
+
 try:
     import streamlit as st
     cache_decorator = st.cache_data
@@ -17,14 +19,15 @@ except ImportError:
     def cache_decorator(func):
         return func
 
-DB_PATH = os.path.abspath("data/app.db")
-RAW_SALES_PATH = os.path.abspath("data/fact_daily_sales.csv")
+ROOT_DIR = Path(__file__).resolve().parent.parent
+DB_PATH = ROOT_DIR / "data" / "app.db"
+RAW_SALES_PATH = ROOT_DIR / "data" / "fact_daily_sales.csv"
 
 def get_db_connection():
     """Returns an active SQLite connection with Foreign Keys enabled."""
-    if not os.path.exists(DB_PATH):
+    if not DB_PATH.exists():
         raise FileNotFoundError(f"Database not found at {DB_PATH}. Please run src/generate_data.py first.")
-    conn = sqlite3.connect(DB_PATH)
+    conn = sqlite3.connect(str(DB_PATH))
     conn.execute("PRAGMA foreign_keys = ON;")
     return conn
 
